@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Benjamin alias @SMB3NK3i or Benkei
-- 👀 I’m interested in wordpress websites, web apps projects & many other things
-- ✅ I have professionnal experience working on react web apps (redux, material-ui) paired with Microsoft C# .NET API's
-- ☕ I’m available to work as freelance developer on js (vanilla, react), c# or php projects
-- 🏭 I also design Wordpress websites for small companies
+- ✅ I have professionnal experience working on react web apps paired with Microsoft C# .NET API's
+- ☕ I’m available to work as freelance developer on js (vanilla, typescript, react), c# or php projects
 - 📫 You can reach me at contact@benjamin-bouton.com
 
 <!---
